@@ -1,1 +1,1 @@
-#HashFlareCalclator
+# HashFlareCalclator
